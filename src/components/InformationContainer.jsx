@@ -27,7 +27,9 @@ const InformationContainer = () => {
         <AiFillEnvironment id="pin-icon" />
         <div>
           <h3>Localização</h3>
-          <p>Praia Grande - SP</p>
+          <a href="https://goo.gl/maps/uv4a3bG3nhELsedQ6" target="_blank" alt="Maps" title="Abrir no Google Maps">
+            Praia Grande - SP
+          </a>
         </div>
       </div>
     </section>
